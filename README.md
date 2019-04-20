@@ -1,6 +1,10 @@
 # C++ Transformations
 Map, Reduce and Filter operations for standard C++ containers
 
+**Note:** This is a fork that tries to parallelize the tranforms using OpenMP. You can find more details on my [blog post](https://nvnmo.github.io/blog/2019/04/19/openmp-parallel-for-cpp).
+
+You can find the original repo [here](https://github.com/georgeshanti/cpp-transformations).
+
 ## Map
 
 #### Example:
